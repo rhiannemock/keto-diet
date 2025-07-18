@@ -12,5 +12,6 @@
     text-transform: uppercase;
 }
 .image-for-proportions{
-    width:450px
+    width:50%;
+    height:auto;
 }
