@@ -3,15 +3,18 @@
     font-size: xx-large;
     background-color:lightblue;
     border-color:darkslategray;
-    border-width:2px
+    border-width:2px solid;
+    padding: 1%;
+    text-align: center;
+    text-transform: uppercase;
 }
 .nav-design{
     border-color:darkslategray;
-    border: width 2px;
+    border: vw 2px solid;
     display:flex;
     justify-content:space-around;
     background-color:lightblue;
-    padding: 10px;
+    padding: vw 2%;
     color:black;
     text-transform: uppercase;
 }
