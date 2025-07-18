@@ -4,13 +4,12 @@
     background-color:lightblue;
     border-color:darkslategray;
     border-width:2px solid;
-    padding: 1%;
-    text-align: center;
-    text-transform: uppercase;
+
 }
 .nav-design{
     border-color:darkslategray;
-    border: vw 2px solid;
+    border-width:2px solid;
+    border-radius: 5px;
     display:flex;
     justify-content:space-around;
     background-color:lightblue;
