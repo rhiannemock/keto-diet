@@ -2,8 +2,12 @@
     font-weight: bold;
     font-size: xx-large;
     background-color:lightblue;
+    border-color:darkslategray;
+    border-width:2px
 }
 .nav-design{
+    border-color:darkslategray;
+    border: width 2px;
     display:flex;
     justify-content:space-around;
     background-color:lightblue;
@@ -11,7 +15,8 @@
     color:black;
     text-transform: uppercase;
 }
-.image-for-proportions{
-    width:50%;
-    height:auto;
+h2{
+    text-decoration:underline;
+    font-size: x-large;
+    font-weight: bold;
 }
