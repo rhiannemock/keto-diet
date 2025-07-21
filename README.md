@@ -11,6 +11,7 @@ The project consists of 5 pages using html and css.
 - horizontal nav bar in light grey blue on hover
 - background image wavy blue lines semi transparent 
 -light grey text boxes black text
+- footer with social links
 
 ## home/index.html
 Gives a basic overview of the keto diet,
