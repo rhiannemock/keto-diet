@@ -15,7 +15,7 @@ The project consists of 5 pages using html and css.
 - footer with social links that stays at the bottom of page at all times.
 
 
-## home/index.html
+## Home/index.html
 
 Gives a basic overview of the keto diet,
 
@@ -24,7 +24,7 @@ Gives a basic overview of the keto diet,
 - a paragraph explaining the graph and the difference between low carb and keto and how achieving and maintaining ketosis is essential for maximum fat burning.
 - an overview of foods you can and can't eat, foods to completely avoid and things that are easily mistaken.
 
-## information hub
+## Information hub
 
 Gives detailed information about how to manage the diet. This page gives all the information the user my need to make their own weekly meal plan. 
 
@@ -36,7 +36,7 @@ Gives detailed information about how to manage the diet. This page gives all the
 - a link to the full food list page.
 - links to social media pages where tips and recipes can be shared
 
-## recipes 
+## Recipes 
 
 This page will have recipes to help make meal plans, each recipe will include allergens, net carbs count, time taken to prepare a unopened list of ingredients and an ordered list of methods. The recipes will be displayed in 4 columns named at the top with breakfasts, lunches, main meals and snacks. Each recipe will show an image with a vertical scrolling text box below it which contains the ingredients and method.
 
@@ -49,10 +49,22 @@ This section will have an email sign up form with radio buttons, checkbook, a na
 - meal plan to fill in.
 
 
-## full food guide
+## Full food guide
+
 This page will go in depth into good and bad foods. Mostly text but will have images such as low carb fruits for a simplifiec visual reference for the user.
 
 
 
+## information references
 
+Thanks to the following
+-
+-
+-
+-
+-
+-
 
+## Other images
+
+These were downloaded from
