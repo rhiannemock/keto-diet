@@ -1,21 +1,11 @@
 .main-heading{
     font-weight: bold;
     font-size: xx-large;
-    background-color:lightblue;
-    border-color:darkslategray;
-    border-width:2px solid;
+   
 
 }
 .nav-design{
-    border-color:darkslategray;
-    border-width:2px solid;
-    border-radius: 5px;
-    display:flex;
-    justify-content:space-around;
-    background-color:lightblue;
-    padding: vw 2%;
-    color:black;
-    text-transform: uppercase;
+   
 }
 h2{
     text-decoration:underline;
